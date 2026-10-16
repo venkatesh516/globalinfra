@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Global Infra Projects logo (sample)">
+  <rect width="64" height="64" rx="14" fill="#173D32"/>
+  <path d="M10 46V30L32 12l22 18v16" fill="none" stroke="#C6A15B" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M20 46V34h8v12M36 46V28h8v18" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M8 51h48" stroke="#C6A15B" stroke-width="3.5" stroke-linecap="round"/>
+</svg>
